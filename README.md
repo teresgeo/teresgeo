@@ -31,7 +31,7 @@ Outside of work, you’ll find me…
 
 ---
 
-## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="40"> What I Do
+## <img src="[https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif](https://media.tenor.com/KiQ71OnI4Q8AAAAM/pusheen-fast.gif)" width="40"> What I Do
 
 ### 🛠 Systems & Operations Engineering  
 - SharePoint + Power Automate processes  
