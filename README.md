@@ -31,7 +31,7 @@ Outside of work, you’ll find me…
 
 ---
 
-## <img src="[https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif](https://media.tenor.com/KiQ71OnI4Q8AAAAM/pusheen-fast.gif)" width="40"> What I Do
+## <img src="[[https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif](https://media.tenor.com/KiQ71OnI4Q8AAAAM/pusheen-fast.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpusheen-computer-gifs&psig=AOvVaw3CvLIefB8bJuVRbjRyL56-&ust=1763903075458000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCumZTphZEDFQAAAAAdAAAAABAE)" width="40"> What I Do
 
 ### 🛠 Systems & Operations Engineering  
 - SharePoint + Power Automate processes  
